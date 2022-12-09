@@ -1,0 +1,15 @@
+div#meny{
+
+    padding: 60px;
+    float: left;
+    background-color: darkgray;
+
+}
+
+div#sisu{
+
+    padding: 60px;
+    float: left;
+    margin-left: 5%;
+    border-left: solid 4px grey;
+}
