@@ -2,7 +2,7 @@
 
 session_start();
 if (!isset($_SESSION['tuvastamine'])) {
-    header('Location: ablogin.php');
+    header('Location: index.php');
     exit();
 }
 if (isset($_POST['logout'])) {
